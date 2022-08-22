@@ -46,3 +46,4 @@ insert into people(id,name,gender)values(322,'Raina','F');
 insert into people(id,name,gender)values(345,'Rohit','M');
 insert into people(id,name,gender)values(322,'Mohit','M');
 insert into people(id,name,gender)values(345,'Meena','F');
+======================================================================================================================================================================
